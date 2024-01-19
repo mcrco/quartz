@@ -1,0 +1,3 @@
+1. Classical machines $\to$ physics
+2. Quantum mechanics $\to$ anything
+...

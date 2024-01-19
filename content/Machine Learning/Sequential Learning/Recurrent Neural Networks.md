@@ -1,0 +1,2 @@
+![[unfolded rnn.png]]
+
