@@ -3,14 +3,14 @@ import * as Plugin from "./quartz/plugins"
 
 const config: QuartzConfig = {
     configuration: {
-        pageTitle: "🪴 Quartz 4.0",
+        pageTitle: "🪴 Marco Yang's Notes",
         enableSPA: true,
         enablePopovers: true,
         analytics: {
             provider: "plausible",
         },
         baseUrl: "github.com/mcrco/quartz",
-        ignorePatterns: ["private", "templates", ".obsidian"],
+        ignorePatterns: ["private", "templates", ".obsidian", "Machine\ Learning/**/*.md", "**/Lectures/**/*.md"],
         defaultDateType: "created",
         theme: {
             typography: {

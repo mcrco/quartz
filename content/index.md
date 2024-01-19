@@ -1,1 +1,1 @@
-my notes (duh). written in [obsidian](https://obsidian.md/), built with [quartz](https://quartz.jzhao.xyz/#-get-started)
+my notes (duh). written in [obsidian](https://obsidian.md/), built with [quartz](https://quartz.jzhao.xyz/#-get-started).
