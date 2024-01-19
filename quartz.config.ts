@@ -9,7 +9,7 @@ const config: QuartzConfig = {
         analytics: {
             provider: "plausible",
         },
-        baseUrl: "https://github.com/mcrco/quartz",
+        baseUrl: "github.com/mcrco/quartz",
         ignorePatterns: ["private", "templates", ".obsidian"],
         defaultDateType: "created",
         theme: {
